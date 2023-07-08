@@ -1,0 +1,35 @@
+.row{
+    background-color: gray;
+    background-image: url('https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    padding-left: 560px;
+}
+.row1{
+    background-color: aquamarine;
+    padding: 80px;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+.tatamotors{
+    background-image: url('https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.tcs{
+    background-image: url('https://img.freepik.com/premium-photo/leaf-background-bokeh-blur-green-background_34998-346.jpg?w=2000');
+}
